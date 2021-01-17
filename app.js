@@ -25,7 +25,7 @@ const t1=new Item({
 });
 
 const t2=new Item({
- name:"Hit '+' button to toDo list"
+ name:"Hit '+' button to add item toDo list"
 
 });
 
